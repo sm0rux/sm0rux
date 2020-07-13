@@ -1,8 +1,6 @@
 # Hi there 👋
 
-I'm Pontus Falk, living in Stockholm, Sweden. SM0RUX is my ham radio callsign.
-
-GnuPG and Signal user as I prefer e2e encryption when communicating with my friend. You find my GnuPG key [here](https://gpg.ax25.org/).
+I'm Pontus Falk, living in Stockholm, Sweden. SM0RUX is my ham radio callsign. I am a GnuPG and Signal user as I prefer e2e encryption when communicating with my friend. You find my GnuPG key [here](https://gpg.ax25.org/).
 
 <!--
 **sm0rux/sm0rux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
